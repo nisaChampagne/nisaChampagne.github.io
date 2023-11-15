@@ -28,7 +28,7 @@ name: John Doe # Name of the Author
 username: johndoe # Username of the Author
 bio: "Hi I a John, a Web Developer and Designer." # Author Bio
 site: http://johndoe.com  # Author Website URL
-avatar: johndoe.png  # Profile Image (img path will be /assets/img/authors/johndoe.png)
+avatar: author.jpg  # Profile Image (img path will be /assets/img/authors/author.jpg)
 email: mail@johndoe.com  # Author Email address
 social:  # Author Social profile links
     - title: "github"
@@ -65,7 +65,7 @@ johndoe:
    name: John Doe
    username: johndoe
    site: http://johndoe.com
-   avatar: johndoe.png
+   avatar: author.jpg
    bio: "Hi I a John, a Web Developer and Designer."
    email: mail@johndoe.com
    social:
